@@ -6,7 +6,7 @@
 
 ### 环境
 软件使用的是QT5.12+vs2019+opencv-3.4.1+win10进行实现，其他版本均可以，由于在CMake编译opencv_contrib的时候出现些问题，导致一些如SURF、BRIEF等算法不能使用。
-完整版操作视频可以观看[哔哩哔哩]([url](https://www.bilibili.com/video/BV1uM4y1j7pF/?vd_source=a509462229ac40b30e078ef4e726ffa7))
+完整版操作视频可以观看[哔哩哔哩](https://www.bilibili.com/video/BV1uM4y1j7pF/?vd_source=a509462229ac40b30e078ef4e726ffa7)
 ### 环境配置
 #### 1. QT5.12在官网https://download.qt.io/archive/qt/下载
 #### 2. opencv3.4.1在[GitHub](https://github.com/opencv/opencv/releases) 中下载
