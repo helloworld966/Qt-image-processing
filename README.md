@@ -52,6 +52,9 @@
 
 #### 5. 特征提取-ORB、Harris、Fast
 
+![image](https://github.com/helloworld966/Qt-image-processing/assets/59432598/72eb5306-1198-489f-b223-c0bb1046ce55)
+
+
 #### 6. 特征匹配
 
 ![image](https://github.com/helloworld966/Qt-image-processing/assets/59432598/3821d83e-9064-4106-ac53-75c7cbe3fa42)
