@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="back">
+    <file>11.png</file>
+    <file>backgroun.png</file>
+    <file>background2.png</file>
+    <file>background3.png</file>
+    <file>background5.png</file>
+    <file>background6.png</file>
+    <file>background8.png</file>
+    <file>background9.png</file>
+    <file>background10.png</file>
+    <file>background99.png</file>
+    <file>bb.png</file>
+    <file>begin.png</file>
+    <file>cam.png</file>
+    <file>file.png</file>
+    <file>kunkun.png</file>
+    <file>load.png</file>
+    <file>menu.png</file>
+    <file>set.png</file>
+    <file>stop.png</file>
+  </qresource>
+</RCC>
