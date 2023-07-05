@@ -23,6 +23,16 @@
 ![image](https://github.com/helloworld966/Qt-image-processing/assets/59432598/a8cde3c8-6690-4357-855c-bb6f6f752df0)
 
 
+##### 4) 创建新的QT项目
+
+![image](https://github.com/helloworld966/Qt-image-processing/assets/59432598/f5f0dab5-0a07-4ad3-bd36-aa5a5064791d)
+
+
+##### 5) 选用msvc_64，其余按照步骤默认进行，配置好后将代码导入
+
+![image](https://github.com/helloworld966/Qt-image-processing/assets/59432598/24700261-3177-4b38-94ec-2cb21942ae00)
+
+
 ## 2. 软件展示
 
 #### 1. 登录界面-username：admin  password-123456 随意修改
